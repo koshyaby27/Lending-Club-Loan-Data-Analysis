@@ -1,2 +1,3 @@
 # Lending-Club-Loan-Data-Analysis
 Analysis of Lending Club’s Issued Loans
+The project  focused on the Lending Club Loan Data from the First Quarter of 2017. We started off by cleansing the data by removing the Irrelevant, Poorly Documented Less Important loan data. Next, we moved to visualizing the relationship between the finalized variables for our analysis. The main objective of analysis was to identify the risky loan applications or in other words identifying the factors behind loan defaults I.e. variables behind the loan defaults. Using our model, the organization could get a better portfolio and risk assessment thereby minimizing the risk of loan default.
